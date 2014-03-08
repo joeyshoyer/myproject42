@@ -52,3 +52,10 @@ div{
   width:640px;
 }
 
+#bio{
+  position:absolute;
+  top:150px;
+  left:300px;
+  width:200px;
+  height:170px;
+}
