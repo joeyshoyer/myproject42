@@ -28,3 +28,11 @@ img{
   top:200px;
 }
 
+#author{
+  position:absolute;
+  top:400;
+  height:20px;
+  width:800px;
+  text-align:center;
+}
+
