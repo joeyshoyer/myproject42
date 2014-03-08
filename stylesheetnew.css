@@ -4,7 +4,7 @@
   top:300px;
   left:450px;
   }
-div{
+#divy{
   background-color:#FF0070;
   width:200px;
   height:80px;
@@ -30,7 +30,7 @@ img{
 
 #author{
   position:absolute;
-  top:400px;
+  top:800px;
   height:20px;
   width:800px;
   text-align:center;
