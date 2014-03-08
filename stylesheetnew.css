@@ -5,6 +5,8 @@ div{
   background-color:#FF0070;
   width:200px;
   height:80px;
+  position:absolute;
+  top:200px;
 }
 #poopy{
   height:20px;
