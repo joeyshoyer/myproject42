@@ -32,7 +32,10 @@ img{
   position:absolute;
   top:800px;
   height:20px;
-  width:800px;
+  width:500px;
   text-align:center;
+}
+div{
+  background-color:#FF0070
 }
 
