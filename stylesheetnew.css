@@ -7,13 +7,18 @@ div{
   height:80px;
 }
 #poopy{
-  clear:both;
-  height:50px;
-  width:400px;
+  height:20px;
+  width:800px;
   text-align:center;
-  padding:25px 25px 25px 30px;
+  position:absolute;
+  top:50px;
+  bottom:100px;
 }
 a {
   text-align:center;
+}
+
+img{
+  padding-top:;
 }
 
