@@ -66,4 +66,5 @@ div{
   height:120px;
   text-align:center;
   background-color:#FF0070;
+  z-index:3;
 }
