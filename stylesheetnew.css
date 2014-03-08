@@ -42,6 +42,7 @@ img{
   width:600px;
   text-align:center;
   background-color:#FF0070;
+  z-index:2;
 }
 div{
   background-color:#FF0070
@@ -54,6 +55,7 @@ div{
   left:700px;
   height:400px;
   width:640px;
+  background-color:#FF0070;
 }
 
 #bio{
