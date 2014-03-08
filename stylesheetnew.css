@@ -7,8 +7,12 @@ div{
   height:80px;
 }
 #poopy{
-  clear:all;
+  clear:both;
   height:50px;
   width:400px;
+  text-align:center;
+}
+a {
+  text-align:center;
 }
 
