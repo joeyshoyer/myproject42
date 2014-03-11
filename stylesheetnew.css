@@ -69,6 +69,7 @@ div{
 #ani{
   animation-duration: 5s;
   animation-name:animatej;
+  position:fixed;
   top:1600px;
   height:50px;
 }
