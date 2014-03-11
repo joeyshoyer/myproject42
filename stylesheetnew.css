@@ -65,3 +65,23 @@ div{
   background-color:#FF0070;
   z-index:3;
 }
+
+#ani{
+  animation-duration: 5s;
+  animation-name:animatej;
+  top:800px;
+}
+
+@keyframes animatej {
+  from{
+    margin-left:100%;
+  }
+  
+  to{
+    margin-left:0%;
+  }
+  
+}
+
+
+
