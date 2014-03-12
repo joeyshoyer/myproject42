@@ -88,6 +88,7 @@ div{
   width:80px;
   text-align:center;
   vertical-align:middle;
+  display:inline-block;
   left:500px;
 }
 
