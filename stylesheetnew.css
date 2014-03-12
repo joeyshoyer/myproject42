@@ -86,7 +86,8 @@ div{
   animation-iteration-count:infinite;
   border-radius:100%;
   width:80px;
-  text-align:justify;
+  text-align:center;
+  vertical-align:middle;
   left:500px;
 }
 
