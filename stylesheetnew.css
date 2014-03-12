@@ -77,12 +77,12 @@ div{
 }
 
 #spinny{
-  animation-duration:4s;
+  animation-duration:3s;
   animation-name:spin;
   position:absolute;
-  top:610px;
+  top:650px;
   height:60px;
-  -webkit-animation:spin 4s;
+  -webkit-animation:spin 3s;
   animation-iteration-count:infinite;
 }
 
