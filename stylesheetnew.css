@@ -82,8 +82,8 @@ div{
   position:absolute;
   top:610px;
   height:60px;
-  -webkit-animation:spin 4s
-  animation-iteration-count:infinate;
+  -webkit-animation:spin 4s;
+  animation-iteration-count:infinite;
 }
 
 @keyframes animatej {
