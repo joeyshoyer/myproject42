@@ -87,6 +87,7 @@ div{
   border-radius:100%;
   width:80px;
   text-align:center;
+  left:500px;
 }
 
 @keyframes animatej {
