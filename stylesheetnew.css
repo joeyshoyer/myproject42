@@ -76,6 +76,16 @@ div{
   animation-iteration-count: infinite;
 }
 
+#spinny{
+  animation-duration:4s;
+  animation-name:spin;
+  position:absolute;
+  top:610px;
+  height:60px;
+  -webkit-animation:spin 4s
+  animation-iteration-count:infinate;
+}
+
 @keyframes animatej {
   from{
     margin-left:100%;
@@ -104,3 +114,22 @@ div{
   
 }
 
+@keyframes spin{
+  from{
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }
+  
+}
+
+@-webkit-keyframes spin{
+  from{
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }
+  
+}
