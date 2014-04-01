@@ -93,6 +93,11 @@ div{
   
 }
 
+facty {
+  position:absolute;
+  top:620px;
+}
+
 @keyframes animatej {
   from{
     margin-left:100%;
