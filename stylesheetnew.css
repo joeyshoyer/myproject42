@@ -83,7 +83,8 @@ div{
   position:absolute;
   top:650px;
   height:80px;
-  -webkit-animation:spin 3s;
+  -webkit-animation-name:spin;
+  -webkit-animation-duration: 3s;
   animation-iteration-count:infinite;
   -webkit-animation-iteration-count:infinite;
   border-radius:100%;
